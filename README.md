@@ -1,13 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2022 - To: 16 March 2022
+From: 10 March 2022 - To: 17 March 2022
 
-Total Time: 37 hrs 38 mins
+Total Time: 42 hrs 14 mins
 
-Go         36 hrs 58 mins  ████████████████████████▓   98.20 %
-YAML       31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Markdown   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Go         40 hrs 55 mins  ████████████████████████▒   96.89 %
+YAML       49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+JSON       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Markdown   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
