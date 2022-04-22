@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
+From: 14 April 2022 - To: 21 April 2022
 
-Total Time: 39 hrs 18 mins
+Total Time: 35 hrs 58 mins
 
-Go           36 hrs 34 mins  ███████████████████████▒░   93.03 %
-TOML         2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Go           33 hrs 12 mins  ███████████████████████░░   92.32 %
+TOML         2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Python       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
