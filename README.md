@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 June 2022 - To: 04 July 2022
+From: 28 June 2022 - To: 05 July 2022
 
-Total Time: 22 hrs 2 mins
+Total Time: 23 hrs 46 mins
 
-Go           17 hrs 44 mins  ███████████████████▒░░░░░   77.55 %
-TOML         1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-YAML         1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Other        50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Go           19 hrs 36 mins  ████████████████████░░░░░   79.71 %
+TOML         1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+YAML         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Other        50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
