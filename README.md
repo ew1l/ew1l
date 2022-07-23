@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 July 2022 - To: 21 July 2022
+From: 15 July 2022 - To: 22 July 2022
 
-Total Time: 14 hrs 31 mins
+Total Time: 11 hrs 36 mins
 
-Go           11 hrs 30 mins  █████████████▒░░░░░░░░░░░   52.88 %
-Other        7 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   33.18 %
+Go           9 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   47.07 %
+Other        8 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   41.26 %
 ```
 
 <!--END_SECTION:waka-->
